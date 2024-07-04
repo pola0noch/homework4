@@ -1,5 +1,6 @@
 #урок "Организация программ и методы строк"
 my_string = input("Введите название курса: ")
+print(len(my_string))
 print(my_string .upper())
 print(my_string .lower())
 print(my_string .replace(" ",""))
